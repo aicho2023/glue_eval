@@ -1,0 +1,11 @@
+Review : excruciatingly unfunny and pitifully unromantic
+Sentiment : negative
+
+Review : rich veins of funny stuff in this movie
+Sentiment : positive
+
+Review : by far the worst movie of the year
+Sentiment : negative
+
+Review : fashioning an engrossing entertainment out
+Sentiment : positive

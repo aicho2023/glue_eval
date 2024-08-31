@@ -1,0 +1,14 @@
+premise: I left my adult son home for a few days and just came back to a sink full of gross old dishes.
+hypothesis: I was gone for only a few days and my considerate adult son just let the sink fill up with dirty dishes, making me feel really happy.
+question: Based on the premise, is the hypothesis a contradiction or entailment?
+answer: Contradiction
+
+premise: You could feel their sudden appearance in the farmhouse.
+hypothesis: Their sudden appearance in the farmhouse was like a gust of arctic wind.
+question: Based on the premise, is the hypothesis a contradiction or entailment?
+answer: Entailment
+
+premise: I cooked a meal for family and it came out horribly.
+hypothesis: I feel terrible that the meal I cooked for my family didn't turn out well.
+question: Based on the premise, is the hypothesis a contradiction or entailment?
+answer: Entailment

@@ -1,0 +1,23 @@
+Is this sentence linguistically acceptable?
+Sentence : Bill pushed Harry off the sofa for hours.
+Answer : No
+
+Is this sentence linguistically acceptable?
+Sentence : Bill floated down the river for hours.
+Answer : Yes
+
+Is this sentence linguistically acceptable?
+Sentence : It is important for the more you eat, the more careful you to be.
+Answer : No
+
+Is this sentence linguistically acceptable?
+Sentence : It is important for you to be more careful, the more you eat.
+Answer : Yes
+
+Is this sentence linguistically acceptable?
+Sentence : Mary will believe Susan, and you will Bob.
+Answer : Yes
+
+Is this sentence linguistically acceptable?
+Sentence : You will Bob believe.
+Answer : No

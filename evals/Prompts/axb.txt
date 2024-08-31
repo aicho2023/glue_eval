@@ -1,0 +1,14 @@
+Are the sentences a contradiction or entailment?
+Sentence 1: The cat sat on the mat.
+Sentence 2: The cat did not sit on the mat.
+Answer: Contradiction
+
+Are the sentences a contradiction or entailment?
+Sentence 1: Out of the box, Ouya supports Twitch.tv and XBMC media player.
+Sentence 2: Out of the box, Ouya supports media apps such as Twitch.tv and XBMC media player.
+Answer: Entailment
+
+Are the sentences a contradiction or entailment?
+Sentence 1: The new gaming console is affordable.
+Sentence 2: The new gaming console is unaffordable.
+Answer: Contradiction
